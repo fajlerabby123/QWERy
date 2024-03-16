@@ -1,1 +1,1 @@
-# Quwery_website
+# QWERy_website
